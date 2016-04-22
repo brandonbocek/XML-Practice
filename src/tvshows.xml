@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE xml>﻿
+<?xml-stylesheet type="text/xsl" href="tvshows.xsl" ?>
+
+<tvshow>
+	<!-- (showing data between cdata) <![CDATA  <samplenode></samplenode> ]]> -->
+	<!--  character entities=  & &amp; ' &apos; > &gt; < &lt; " &quot; -->
+	<show>
+		<name>Friends</name>
+		<release>1994</release>
+		<end_date>2004</end_date>
+		<network country="US">CBS</network>
+		<poster href="http://img2.tvtome.com/i/u/28c79aac89f44f2dcf865ab8c03a4201.png" width="600" height="335" ></poster>
+		<viewers units="millions">7.82</viewers>
+	</show>
+	<show>
+		<name>The Office</name>
+		<release>2001</release>
+		<end_date>2003</end_date>
+		<network country="UK">BBC</network>
+		<poster href="http://vignette3.wikia.nocookie.net/theoffice/images/a/ac/TheOfficeUKcast.jpg/revision/latest?cb=20091225181130" width="333" height="250" ></poster>
+		<viewers units="millions">3.13</viewers>
+	</show>
+	<show>
+		<name>The Office</name>
+		<release>2005</release>
+		<end_date>2013</end_date>
+		<network country="US">NBC</network>
+		<poster href="https://upload.wikimedia.org/wikipedia/en/8/80/The_office_US.jpg" width="350" height="244" ></poster>
+		<viewers units="millions">10.82</viewers>
+	</show>
+
+</tvshow>
